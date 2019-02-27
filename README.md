@@ -29,3 +29,10 @@ To stop/remove container:
 # Write your documentation below
 
 Write your documentation here.
+
+#Objective Statement
+To provide a web based theater blocking solution (application) for a theater
+company that is user friendly, accessible, interactive/responsive, secure and
+scaleable. The application will allow the directors to edit and update the
+blocking for a scene and will allow the actors and other crew members view the
+latest updated blocking from the director. 
